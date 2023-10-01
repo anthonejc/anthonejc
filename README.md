@@ -1,5 +1,4 @@
->hey ,i'm just a begginer
->excited to explore more!!
+**coding is an art** uhh!!
 
 <!---
 anthonejc/anthonejc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
